@@ -52,10 +52,10 @@ body{
 #radio1:checked ~ .first{
     margin-left: 0;
 }
-#radio1:checked ~ .first{
+#radio2:checked ~ .first{
     margin-left: -20%;
 }
-#radio1:checked ~ .first{
+#radio3:checked ~ .first{
     margin-left: -40%;
 }
 
@@ -67,7 +67,7 @@ body{
     justify-content: center;
 }
 .auto div{
-    border:2px solid black;
+    border:2px solid white;
     padding: 5px;
     border-radius: 10px;
     transition: 1s;
